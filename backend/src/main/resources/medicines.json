@@ -1,0 +1,2102 @@
+[
+    {
+        "name": "Dolo",
+        "genericName": "Paracetamol",
+        "manufacturer": "Micro Labs",
+        "price": 36.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Pan",
+        "genericName": "Pantoprazole",
+        "manufacturer": "Alkem",
+        "price": 138.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Telma",
+        "genericName": "Telmisartan",
+        "manufacturer": "Glenmark",
+        "price": 166.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Zincovit",
+        "genericName": "Multivitamins",
+        "manufacturer": "Apex",
+        "price": 105.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Azithral",
+        "genericName": "Azithromycin",
+        "manufacturer": "Alembic",
+        "price": 128.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Crocin",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 32.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Augmentin",
+        "genericName": "Amoxicillin + Clavulanate",
+        "manufacturer": "GSK",
+        "price": 219.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Allegra",
+        "genericName": "Fexofenadine",
+        "manufacturer": "Sanofi",
+        "price": 184.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Shelcal",
+        "genericName": "Calcium + Vitamin D3",
+        "manufacturer": "Torrent",
+        "price": 117.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ecosprin",
+        "genericName": "Aspirin",
+        "manufacturer": "USV",
+        "price": 9.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Glycomet",
+        "genericName": "Metformin",
+        "manufacturer": "USV",
+        "price": 52.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Thyronorm",
+        "genericName": "Thyroxine",
+        "manufacturer": "Abbott",
+        "price": 170.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Montek",
+        "genericName": "Montelukast",
+        "manufacturer": "Sun Pharma",
+        "price": 142.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Omez",
+        "genericName": "Omeprazole",
+        "manufacturer": "Dr Reddy",
+        "price": 73.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Betadine",
+        "genericName": "Povidone Iodine",
+        "manufacturer": "Win-Medicare",
+        "price": 90.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Levocet",
+        "genericName": "Levocetirizine",
+        "manufacturer": "Hetero",
+        "price": 52.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Amlokind",
+        "genericName": "Amlodipine",
+        "manufacturer": "Mankind",
+        "price": 43.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Domstal",
+        "genericName": "Domperidone",
+        "manufacturer": "Torrent",
+        "price": 25.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Aciloc",
+        "genericName": "Ranitidine",
+        "manufacturer": "Cadila",
+        "price": 49.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Combiflam",
+        "genericName": "Ibuprofen + Paracetamol",
+        "manufacturer": "Sanofi",
+        "price": 39.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Evion",
+        "genericName": "Vitamin E",
+        "manufacturer": "P&G",
+        "price": 40.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Becosules",
+        "genericName": "Vitamin B Complex",
+        "manufacturer": "Pfizer",
+        "price": 48.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Volini",
+        "genericName": "Diclofenac",
+        "manufacturer": "Sun Pharma",
+        "price": 109.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Liv52",
+        "genericName": "Ayurvedic Liver Tonic",
+        "manufacturer": "Himalaya",
+        "price": 164.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Calpol",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 13.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ascoril",
+        "genericName": "Ambroxol + Guaiphenesin",
+        "manufacturer": "Glenmark",
+        "price": 124.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Cefakind",
+        "genericName": "Cefuroxime",
+        "manufacturer": "Mankind",
+        "price": 298.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Taxim",
+        "genericName": "Cefotaxime",
+        "manufacturer": "Alkem",
+        "price": 50.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Deriphyllin",
+        "genericName": "Etofylline + Theophylline",
+        "manufacturer": "Zydus",
+        "price": 30.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Voveran",
+        "genericName": "Diclofenac",
+        "manufacturer": "Novartis",
+        "price": 111.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Dolo",
+        "genericName": "Paracetamol",
+        "manufacturer": "Micro Labs",
+        "price": 25.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Pan Ointment",
+        "genericName": "Pantoprazole",
+        "manufacturer": "Alkem",
+        "price": 140.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Telma XR",
+        "genericName": "Telmisartan",
+        "manufacturer": "Glenmark",
+        "price": 156.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Zincovit SR",
+        "genericName": "Multivitamins",
+        "manufacturer": "Apex",
+        "price": 118.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Azithral 100mg",
+        "genericName": "Azithromycin",
+        "manufacturer": "Alembic",
+        "price": 120.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Crocin 10mg",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 28.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Augmentin 500mg",
+        "genericName": "Amoxicillin + Clavulanate",
+        "manufacturer": "GSK",
+        "price": 207.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Allegra 250mg",
+        "genericName": "Fexofenadine",
+        "manufacturer": "Sanofi",
+        "price": 194.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Shelcal 40mg",
+        "genericName": "Calcium + Vitamin D3",
+        "manufacturer": "Torrent",
+        "price": 125.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ecosprin 20mg",
+        "genericName": "Aspirin",
+        "manufacturer": "USV",
+        "price": 15.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Glycomet Plus",
+        "genericName": "Metformin",
+        "manufacturer": "USV",
+        "price": 43.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Thyronorm Forte",
+        "genericName": "Thyroxine",
+        "manufacturer": "Abbott",
+        "price": 163.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Montek Suspension",
+        "genericName": "Montelukast",
+        "manufacturer": "Sun Pharma",
+        "price": 145.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Omez Ointment",
+        "genericName": "Omeprazole",
+        "manufacturer": "Dr Reddy",
+        "price": 74.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Betadine XR",
+        "genericName": "Povidone Iodine",
+        "manufacturer": "Win-Medicare",
+        "price": 97.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Levocet SR",
+        "genericName": "Levocetirizine",
+        "manufacturer": "Hetero",
+        "price": 52.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Amlokind 100mg",
+        "genericName": "Amlodipine",
+        "manufacturer": "Mankind",
+        "price": 36.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Domstal 10mg",
+        "genericName": "Domperidone",
+        "manufacturer": "Torrent",
+        "price": 31.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Aciloc 500mg",
+        "genericName": "Ranitidine",
+        "manufacturer": "Cadila",
+        "price": 45.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Combiflam 250mg",
+        "genericName": "Ibuprofen + Paracetamol",
+        "manufacturer": "Sanofi",
+        "price": 58.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Evion 40mg",
+        "genericName": "Vitamin E",
+        "manufacturer": "P&G",
+        "price": 31.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Becosules 20mg",
+        "genericName": "Vitamin B Complex",
+        "manufacturer": "Pfizer",
+        "price": 53.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Volini Plus",
+        "genericName": "Diclofenac",
+        "manufacturer": "Sun Pharma",
+        "price": 86.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Liv52 Forte",
+        "genericName": "Ayurvedic Liver Tonic",
+        "manufacturer": "Himalaya",
+        "price": 148.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Calpol Suspension",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 28.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ascoril Ointment",
+        "genericName": "Ambroxol + Guaiphenesin",
+        "manufacturer": "Glenmark",
+        "price": 139.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Cefakind XR",
+        "genericName": "Cefuroxime",
+        "manufacturer": "Mankind",
+        "price": 296.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Taxim SR",
+        "genericName": "Cefotaxime",
+        "manufacturer": "Alkem",
+        "price": 39.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Deriphyllin 100mg",
+        "genericName": "Etofylline + Theophylline",
+        "manufacturer": "Zydus",
+        "price": 33.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Voveran 10mg",
+        "genericName": "Diclofenac",
+        "manufacturer": "Novartis",
+        "price": 95.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Dolo 500mg",
+        "genericName": "Paracetamol",
+        "manufacturer": "Micro Labs",
+        "price": 34.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Pan 250mg",
+        "genericName": "Pantoprazole",
+        "manufacturer": "Alkem",
+        "price": 115.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Telma 40mg",
+        "genericName": "Telmisartan",
+        "manufacturer": "Glenmark",
+        "price": 148.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Zincovit 20mg",
+        "genericName": "Multivitamins",
+        "manufacturer": "Apex",
+        "price": 124.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Azithral Plus",
+        "genericName": "Azithromycin",
+        "manufacturer": "Alembic",
+        "price": 119.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Crocin Forte",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 20.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Augmentin Suspension",
+        "genericName": "Amoxicillin + Clavulanate",
+        "manufacturer": "GSK",
+        "price": 212.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Allegra Ointment",
+        "genericName": "Fexofenadine",
+        "manufacturer": "Sanofi",
+        "price": 198.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Shelcal XR",
+        "genericName": "Calcium + Vitamin D3",
+        "manufacturer": "Torrent",
+        "price": 126.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ecosprin SR",
+        "genericName": "Aspirin",
+        "manufacturer": "USV",
+        "price": 18.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Glycomet 100mg",
+        "genericName": "Metformin",
+        "manufacturer": "USV",
+        "price": 34.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Thyronorm 10mg",
+        "genericName": "Thyroxine",
+        "manufacturer": "Abbott",
+        "price": 158.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Montek 500mg",
+        "genericName": "Montelukast",
+        "manufacturer": "Sun Pharma",
+        "price": 150.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Omez 250mg",
+        "genericName": "Omeprazole",
+        "manufacturer": "Dr Reddy",
+        "price": 65.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Betadine 40mg",
+        "genericName": "Povidone Iodine",
+        "manufacturer": "Win-Medicare",
+        "price": 88.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Levocet 20mg",
+        "genericName": "Levocetirizine",
+        "manufacturer": "Hetero",
+        "price": 62.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Amlokind Plus",
+        "genericName": "Amlodipine",
+        "manufacturer": "Mankind",
+        "price": 39.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Domstal Forte",
+        "genericName": "Domperidone",
+        "manufacturer": "Torrent",
+        "price": 47.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Aciloc Suspension",
+        "genericName": "Ranitidine",
+        "manufacturer": "Cadila",
+        "price": 50.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Combiflam Ointment",
+        "genericName": "Ibuprofen + Paracetamol",
+        "manufacturer": "Sanofi",
+        "price": 59.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Evion XR",
+        "genericName": "Vitamin E",
+        "manufacturer": "P&G",
+        "price": 32.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Becosules SR",
+        "genericName": "Vitamin B Complex",
+        "manufacturer": "Pfizer",
+        "price": 44.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Volini 100mg",
+        "genericName": "Diclofenac",
+        "manufacturer": "Sun Pharma",
+        "price": 107.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Liv52 10mg",
+        "genericName": "Ayurvedic Liver Tonic",
+        "manufacturer": "Himalaya",
+        "price": 156.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Calpol 500mg",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 25.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ascoril 250mg",
+        "genericName": "Ambroxol + Guaiphenesin",
+        "manufacturer": "Glenmark",
+        "price": 117.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Cefakind 40mg",
+        "genericName": "Cefuroxime",
+        "manufacturer": "Mankind",
+        "price": 313.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Taxim 20mg",
+        "genericName": "Cefotaxime",
+        "manufacturer": "Alkem",
+        "price": 50.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Deriphyllin Plus",
+        "genericName": "Etofylline + Theophylline",
+        "manufacturer": "Zydus",
+        "price": 37.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Voveran Forte",
+        "genericName": "Diclofenac",
+        "manufacturer": "Novartis",
+        "price": 106.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Dolo Suspension",
+        "genericName": "Paracetamol",
+        "manufacturer": "Micro Labs",
+        "price": 41.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Pan Ointment",
+        "genericName": "Pantoprazole",
+        "manufacturer": "Alkem",
+        "price": 132.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Telma XR",
+        "genericName": "Telmisartan",
+        "manufacturer": "Glenmark",
+        "price": 149.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Zincovit SR",
+        "genericName": "Multivitamins",
+        "manufacturer": "Apex",
+        "price": 119.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Azithral 100mg",
+        "genericName": "Azithromycin",
+        "manufacturer": "Alembic",
+        "price": 134.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Crocin 10mg",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 18.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Augmentin 500mg",
+        "genericName": "Amoxicillin + Clavulanate",
+        "manufacturer": "GSK",
+        "price": 218.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Allegra 250mg",
+        "genericName": "Fexofenadine",
+        "manufacturer": "Sanofi",
+        "price": 197.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Shelcal 40mg",
+        "genericName": "Calcium + Vitamin D3",
+        "manufacturer": "Torrent",
+        "price": 105.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ecosprin 20mg",
+        "genericName": "Aspirin",
+        "manufacturer": "USV",
+        "price": 6.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Glycomet Plus",
+        "genericName": "Metformin",
+        "manufacturer": "USV",
+        "price": 39.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Thyronorm Forte",
+        "genericName": "Thyroxine",
+        "manufacturer": "Abbott",
+        "price": 168.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Montek Suspension",
+        "genericName": "Montelukast",
+        "manufacturer": "Sun Pharma",
+        "price": 144.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Omez Ointment",
+        "genericName": "Omeprazole",
+        "manufacturer": "Dr Reddy",
+        "price": 75.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Betadine XR",
+        "genericName": "Povidone Iodine",
+        "manufacturer": "Win-Medicare",
+        "price": 100.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Levocet SR",
+        "genericName": "Levocetirizine",
+        "manufacturer": "Hetero",
+        "price": 49.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Amlokind 100mg",
+        "genericName": "Amlodipine",
+        "manufacturer": "Mankind",
+        "price": 26.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Domstal 10mg",
+        "genericName": "Domperidone",
+        "manufacturer": "Torrent",
+        "price": 26.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Aciloc 500mg",
+        "genericName": "Ranitidine",
+        "manufacturer": "Cadila",
+        "price": 55.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Combiflam 250mg",
+        "genericName": "Ibuprofen + Paracetamol",
+        "manufacturer": "Sanofi",
+        "price": 51.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Evion 40mg",
+        "genericName": "Vitamin E",
+        "manufacturer": "P&G",
+        "price": 39.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Becosules 20mg",
+        "genericName": "Vitamin B Complex",
+        "manufacturer": "Pfizer",
+        "price": 62.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Volini Plus",
+        "genericName": "Diclofenac",
+        "manufacturer": "Sun Pharma",
+        "price": 104.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Liv52 Forte",
+        "genericName": "Ayurvedic Liver Tonic",
+        "manufacturer": "Himalaya",
+        "price": 167.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Calpol Suspension",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 13.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ascoril Ointment",
+        "genericName": "Ambroxol + Guaiphenesin",
+        "manufacturer": "Glenmark",
+        "price": 123.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Cefakind XR",
+        "genericName": "Cefuroxime",
+        "manufacturer": "Mankind",
+        "price": 320.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Taxim SR",
+        "genericName": "Cefotaxime",
+        "manufacturer": "Alkem",
+        "price": 55.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Deriphyllin 100mg",
+        "genericName": "Etofylline + Theophylline",
+        "manufacturer": "Zydus",
+        "price": 21.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Voveran 10mg",
+        "genericName": "Diclofenac",
+        "manufacturer": "Novartis",
+        "price": 119.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Dolo 500mg",
+        "genericName": "Paracetamol",
+        "manufacturer": "Micro Labs",
+        "price": 33.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Pan 250mg",
+        "genericName": "Pantoprazole",
+        "manufacturer": "Alkem",
+        "price": 120.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Telma 40mg",
+        "genericName": "Telmisartan",
+        "manufacturer": "Glenmark",
+        "price": 147.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Zincovit 20mg",
+        "genericName": "Multivitamins",
+        "manufacturer": "Apex",
+        "price": 101.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Azithral Plus",
+        "genericName": "Azithromycin",
+        "manufacturer": "Alembic",
+        "price": 117.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Crocin Forte",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 29.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Augmentin Suspension",
+        "genericName": "Amoxicillin + Clavulanate",
+        "manufacturer": "GSK",
+        "price": 220.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Allegra Ointment",
+        "genericName": "Fexofenadine",
+        "manufacturer": "Sanofi",
+        "price": 181.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Shelcal XR",
+        "genericName": "Calcium + Vitamin D3",
+        "manufacturer": "Torrent",
+        "price": 121.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ecosprin SR",
+        "genericName": "Aspirin",
+        "manufacturer": "USV",
+        "price": 3.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Glycomet 100mg",
+        "genericName": "Metformin",
+        "manufacturer": "USV",
+        "price": 40.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Thyronorm 10mg",
+        "genericName": "Thyroxine",
+        "manufacturer": "Abbott",
+        "price": 153.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Montek 500mg",
+        "genericName": "Montelukast",
+        "manufacturer": "Sun Pharma",
+        "price": 151.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Omez 250mg",
+        "genericName": "Omeprazole",
+        "manufacturer": "Dr Reddy",
+        "price": 73.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Betadine 40mg",
+        "genericName": "Povidone Iodine",
+        "manufacturer": "Win-Medicare",
+        "price": 94.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Levocet 20mg",
+        "genericName": "Levocetirizine",
+        "manufacturer": "Hetero",
+        "price": 50.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Amlokind Plus",
+        "genericName": "Amlodipine",
+        "manufacturer": "Mankind",
+        "price": 26.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Domstal Forte",
+        "genericName": "Domperidone",
+        "manufacturer": "Torrent",
+        "price": 27.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Aciloc Suspension",
+        "genericName": "Ranitidine",
+        "manufacturer": "Cadila",
+        "price": 54.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Combiflam Ointment",
+        "genericName": "Ibuprofen + Paracetamol",
+        "manufacturer": "Sanofi",
+        "price": 58.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Evion XR",
+        "genericName": "Vitamin E",
+        "manufacturer": "P&G",
+        "price": 50.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Becosules SR",
+        "genericName": "Vitamin B Complex",
+        "manufacturer": "Pfizer",
+        "price": 60.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Volini 100mg",
+        "genericName": "Diclofenac",
+        "manufacturer": "Sun Pharma",
+        "price": 87.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Liv52 10mg",
+        "genericName": "Ayurvedic Liver Tonic",
+        "manufacturer": "Himalaya",
+        "price": 159.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Calpol 500mg",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 35.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ascoril 250mg",
+        "genericName": "Ambroxol + Guaiphenesin",
+        "manufacturer": "Glenmark",
+        "price": 126.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Cefakind 40mg",
+        "genericName": "Cefuroxime",
+        "manufacturer": "Mankind",
+        "price": 301.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Taxim 20mg",
+        "genericName": "Cefotaxime",
+        "manufacturer": "Alkem",
+        "price": 60.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Deriphyllin Plus",
+        "genericName": "Etofylline + Theophylline",
+        "manufacturer": "Zydus",
+        "price": 31.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Voveran Forte",
+        "genericName": "Diclofenac",
+        "manufacturer": "Novartis",
+        "price": 119.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Dolo Suspension",
+        "genericName": "Paracetamol",
+        "manufacturer": "Micro Labs",
+        "price": 30.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Pan Ointment",
+        "genericName": "Pantoprazole",
+        "manufacturer": "Alkem",
+        "price": 131.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Telma XR",
+        "genericName": "Telmisartan",
+        "manufacturer": "Glenmark",
+        "price": 154.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Zincovit SR",
+        "genericName": "Multivitamins",
+        "manufacturer": "Apex",
+        "price": 109.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Azithral 100mg",
+        "genericName": "Azithromycin",
+        "manufacturer": "Alembic",
+        "price": 125.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Crocin 10mg",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 27.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Augmentin 500mg",
+        "genericName": "Amoxicillin + Clavulanate",
+        "manufacturer": "GSK",
+        "price": 195.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Allegra 250mg",
+        "genericName": "Fexofenadine",
+        "manufacturer": "Sanofi",
+        "price": 193.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Shelcal 40mg",
+        "genericName": "Calcium + Vitamin D3",
+        "manufacturer": "Torrent",
+        "price": 129.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ecosprin 20mg",
+        "genericName": "Aspirin",
+        "manufacturer": "USV",
+        "price": 25.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Glycomet Plus",
+        "genericName": "Metformin",
+        "manufacturer": "USV",
+        "price": 32.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Thyronorm Forte",
+        "genericName": "Thyroxine",
+        "manufacturer": "Abbott",
+        "price": 161.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Montek Suspension",
+        "genericName": "Montelukast",
+        "manufacturer": "Sun Pharma",
+        "price": 153.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Omez Ointment",
+        "genericName": "Omeprazole",
+        "manufacturer": "Dr Reddy",
+        "price": 52.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Betadine XR",
+        "genericName": "Povidone Iodine",
+        "manufacturer": "Win-Medicare",
+        "price": 85.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Levocet SR",
+        "genericName": "Levocetirizine",
+        "manufacturer": "Hetero",
+        "price": 57.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Amlokind 100mg",
+        "genericName": "Amlodipine",
+        "manufacturer": "Mankind",
+        "price": 43.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Domstal 10mg",
+        "genericName": "Domperidone",
+        "manufacturer": "Torrent",
+        "price": 41.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Aciloc 500mg",
+        "genericName": "Ranitidine",
+        "manufacturer": "Cadila",
+        "price": 38.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Combiflam 250mg",
+        "genericName": "Ibuprofen + Paracetamol",
+        "manufacturer": "Sanofi",
+        "price": 43.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Evion 40mg",
+        "genericName": "Vitamin E",
+        "manufacturer": "P&G",
+        "price": 30.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Becosules 20mg",
+        "genericName": "Vitamin B Complex",
+        "manufacturer": "Pfizer",
+        "price": 51.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Volini Plus",
+        "genericName": "Diclofenac",
+        "manufacturer": "Sun Pharma",
+        "price": 97.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Liv52 Forte",
+        "genericName": "Ayurvedic Liver Tonic",
+        "manufacturer": "Himalaya",
+        "price": 157.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Calpol Suspension",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 15.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ascoril Ointment",
+        "genericName": "Ambroxol + Guaiphenesin",
+        "manufacturer": "Glenmark",
+        "price": 133.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Cefakind XR",
+        "genericName": "Cefuroxime",
+        "manufacturer": "Mankind",
+        "price": 312.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Taxim SR",
+        "genericName": "Cefotaxime",
+        "manufacturer": "Alkem",
+        "price": 35.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Deriphyllin 100mg",
+        "genericName": "Etofylline + Theophylline",
+        "manufacturer": "Zydus",
+        "price": 37.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Voveran 10mg",
+        "genericName": "Diclofenac",
+        "manufacturer": "Novartis",
+        "price": 116.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Dolo 500mg",
+        "genericName": "Paracetamol",
+        "manufacturer": "Micro Labs",
+        "price": 39.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Pan 250mg",
+        "genericName": "Pantoprazole",
+        "manufacturer": "Alkem",
+        "price": 125.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Telma 40mg",
+        "genericName": "Telmisartan",
+        "manufacturer": "Glenmark",
+        "price": 163.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Zincovit 20mg",
+        "genericName": "Multivitamins",
+        "manufacturer": "Apex",
+        "price": 117.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Azithral Plus",
+        "genericName": "Azithromycin",
+        "manufacturer": "Alembic",
+        "price": 130.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Crocin Forte",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 35.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Augmentin Suspension",
+        "genericName": "Amoxicillin + Clavulanate",
+        "manufacturer": "GSK",
+        "price": 202.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Allegra Ointment",
+        "genericName": "Fexofenadine",
+        "manufacturer": "Sanofi",
+        "price": 189.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Shelcal XR",
+        "genericName": "Calcium + Vitamin D3",
+        "manufacturer": "Torrent",
+        "price": 130.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ecosprin SR",
+        "genericName": "Aspirin",
+        "manufacturer": "USV",
+        "price": 5.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Glycomet 100mg",
+        "genericName": "Metformin",
+        "manufacturer": "USV",
+        "price": 38.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Thyronorm 10mg",
+        "genericName": "Thyroxine",
+        "manufacturer": "Abbott",
+        "price": 152.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Montek 500mg",
+        "genericName": "Montelukast",
+        "manufacturer": "Sun Pharma",
+        "price": 141.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Omez 250mg",
+        "genericName": "Omeprazole",
+        "manufacturer": "Dr Reddy",
+        "price": 68.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Betadine 40mg",
+        "genericName": "Povidone Iodine",
+        "manufacturer": "Win-Medicare",
+        "price": 98.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Levocet 20mg",
+        "genericName": "Levocetirizine",
+        "manufacturer": "Hetero",
+        "price": 41.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Amlokind Plus",
+        "genericName": "Amlodipine",
+        "manufacturer": "Mankind",
+        "price": 27.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Domstal Forte",
+        "genericName": "Domperidone",
+        "manufacturer": "Torrent",
+        "price": 25.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Aciloc Suspension",
+        "genericName": "Ranitidine",
+        "manufacturer": "Cadila",
+        "price": 49.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Combiflam Ointment",
+        "genericName": "Ibuprofen + Paracetamol",
+        "manufacturer": "Sanofi",
+        "price": 51.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Evion XR",
+        "genericName": "Vitamin E",
+        "manufacturer": "P&G",
+        "price": 46.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Becosules SR",
+        "genericName": "Vitamin B Complex",
+        "manufacturer": "Pfizer",
+        "price": 42.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Volini 100mg",
+        "genericName": "Diclofenac",
+        "manufacturer": "Sun Pharma",
+        "price": 101.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Liv52 10mg",
+        "genericName": "Ayurvedic Liver Tonic",
+        "manufacturer": "Himalaya",
+        "price": 167.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Calpol 500mg",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 32.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ascoril 250mg",
+        "genericName": "Ambroxol + Guaiphenesin",
+        "manufacturer": "Glenmark",
+        "price": 136.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Cefakind 40mg",
+        "genericName": "Cefuroxime",
+        "manufacturer": "Mankind",
+        "price": 302.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Taxim 20mg",
+        "genericName": "Cefotaxime",
+        "manufacturer": "Alkem",
+        "price": 47.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Deriphyllin Plus",
+        "genericName": "Etofylline + Theophylline",
+        "manufacturer": "Zydus",
+        "price": 29.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Voveran Forte",
+        "genericName": "Diclofenac",
+        "manufacturer": "Novartis",
+        "price": 102.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Dolo Suspension",
+        "genericName": "Paracetamol",
+        "manufacturer": "Micro Labs",
+        "price": 44.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Pan Ointment",
+        "genericName": "Pantoprazole",
+        "manufacturer": "Alkem",
+        "price": 121.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Telma XR",
+        "genericName": "Telmisartan",
+        "manufacturer": "Glenmark",
+        "price": 151.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Zincovit SR",
+        "genericName": "Multivitamins",
+        "manufacturer": "Apex",
+        "price": 104.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Azithral 100mg",
+        "genericName": "Azithromycin",
+        "manufacturer": "Alembic",
+        "price": 128.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Crocin 10mg",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 32.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Augmentin 500mg",
+        "genericName": "Amoxicillin + Clavulanate",
+        "manufacturer": "GSK",
+        "price": 216.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Allegra 250mg",
+        "genericName": "Fexofenadine",
+        "manufacturer": "Sanofi",
+        "price": 176.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Shelcal 40mg",
+        "genericName": "Calcium + Vitamin D3",
+        "manufacturer": "Torrent",
+        "price": 106.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ecosprin 20mg",
+        "genericName": "Aspirin",
+        "manufacturer": "USV",
+        "price": 17.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Glycomet Plus",
+        "genericName": "Metformin",
+        "manufacturer": "USV",
+        "price": 46.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Thyronorm Forte",
+        "genericName": "Thyroxine",
+        "manufacturer": "Abbott",
+        "price": 156.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Montek Suspension",
+        "genericName": "Montelukast",
+        "manufacturer": "Sun Pharma",
+        "price": 143.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Omez Ointment",
+        "genericName": "Omeprazole",
+        "manufacturer": "Dr Reddy",
+        "price": 70.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Betadine XR",
+        "genericName": "Povidone Iodine",
+        "manufacturer": "Win-Medicare",
+        "price": 81.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Levocet SR",
+        "genericName": "Levocetirizine",
+        "manufacturer": "Hetero",
+        "price": 65.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Amlokind 100mg",
+        "genericName": "Amlodipine",
+        "manufacturer": "Mankind",
+        "price": 37.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Domstal 10mg",
+        "genericName": "Domperidone",
+        "manufacturer": "Torrent",
+        "price": 28.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Aciloc 500mg",
+        "genericName": "Ranitidine",
+        "manufacturer": "Cadila",
+        "price": 47.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Combiflam 250mg",
+        "genericName": "Ibuprofen + Paracetamol",
+        "manufacturer": "Sanofi",
+        "price": 45.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Evion 40mg",
+        "genericName": "Vitamin E",
+        "manufacturer": "P&G",
+        "price": 32.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Becosules 20mg",
+        "genericName": "Vitamin B Complex",
+        "manufacturer": "Pfizer",
+        "price": 60.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Volini Plus",
+        "genericName": "Diclofenac",
+        "manufacturer": "Sun Pharma",
+        "price": 102.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Liv52 Forte",
+        "genericName": "Ayurvedic Liver Tonic",
+        "manufacturer": "Himalaya",
+        "price": 162.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Calpol Suspension",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 19.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ascoril Ointment",
+        "genericName": "Ambroxol + Guaiphenesin",
+        "manufacturer": "Glenmark",
+        "price": 132.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Cefakind XR",
+        "genericName": "Cefuroxime",
+        "manufacturer": "Mankind",
+        "price": 297.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Taxim SR",
+        "genericName": "Cefotaxime",
+        "manufacturer": "Alkem",
+        "price": 60.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Deriphyllin 100mg",
+        "genericName": "Etofylline + Theophylline",
+        "manufacturer": "Zydus",
+        "price": 31.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Voveran 10mg",
+        "genericName": "Diclofenac",
+        "manufacturer": "Novartis",
+        "price": 101.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Dolo 500mg",
+        "genericName": "Paracetamol",
+        "manufacturer": "Micro Labs",
+        "price": 36.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Pan 250mg",
+        "genericName": "Pantoprazole",
+        "manufacturer": "Alkem",
+        "price": 127.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Telma 40mg",
+        "genericName": "Telmisartan",
+        "manufacturer": "Glenmark",
+        "price": 149.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Zincovit 20mg",
+        "genericName": "Multivitamins",
+        "manufacturer": "Apex",
+        "price": 118.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Azithral Plus",
+        "genericName": "Azithromycin",
+        "manufacturer": "Alembic",
+        "price": 131.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Crocin Forte",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 30.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Augmentin Suspension",
+        "genericName": "Amoxicillin + Clavulanate",
+        "manufacturer": "GSK",
+        "price": 211.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Allegra Ointment",
+        "genericName": "Fexofenadine",
+        "manufacturer": "Sanofi",
+        "price": 194.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Shelcal XR",
+        "genericName": "Calcium + Vitamin D3",
+        "manufacturer": "Torrent",
+        "price": 128.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ecosprin SR",
+        "genericName": "Aspirin",
+        "manufacturer": "USV",
+        "price": 10.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Glycomet 100mg",
+        "genericName": "Metformin",
+        "manufacturer": "USV",
+        "price": 39.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Thyronorm 10mg",
+        "genericName": "Thyroxine",
+        "manufacturer": "Abbott",
+        "price": 166.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Montek 500mg",
+        "genericName": "Montelukast",
+        "manufacturer": "Sun Pharma",
+        "price": 146.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Omez 250mg",
+        "genericName": "Omeprazole",
+        "manufacturer": "Dr Reddy",
+        "price": 57.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Betadine 40mg",
+        "genericName": "Povidone Iodine",
+        "manufacturer": "Win-Medicare",
+        "price": 79.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Levocet 20mg",
+        "genericName": "Levocetirizine",
+        "manufacturer": "Hetero",
+        "price": 65.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Amlokind Plus",
+        "genericName": "Amlodipine",
+        "manufacturer": "Mankind",
+        "price": 45.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Domstal Forte",
+        "genericName": "Domperidone",
+        "manufacturer": "Torrent",
+        "price": 43.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Aciloc Suspension",
+        "genericName": "Ranitidine",
+        "manufacturer": "Cadila",
+        "price": 34.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Combiflam Ointment",
+        "genericName": "Ibuprofen + Paracetamol",
+        "manufacturer": "Sanofi",
+        "price": 38.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Evion XR",
+        "genericName": "Vitamin E",
+        "manufacturer": "P&G",
+        "price": 49.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Becosules SR",
+        "genericName": "Vitamin B Complex",
+        "manufacturer": "Pfizer",
+        "price": 64.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Volini 100mg",
+        "genericName": "Diclofenac",
+        "manufacturer": "Sun Pharma",
+        "price": 86.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Liv52 10mg",
+        "genericName": "Ayurvedic Liver Tonic",
+        "manufacturer": "Himalaya",
+        "price": 160.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Calpol 500mg",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 27.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ascoril 250mg",
+        "genericName": "Ambroxol + Guaiphenesin",
+        "manufacturer": "Glenmark",
+        "price": 127.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Cefakind 40mg",
+        "genericName": "Cefuroxime",
+        "manufacturer": "Mankind",
+        "price": 295.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Taxim 20mg",
+        "genericName": "Cefotaxime",
+        "manufacturer": "Alkem",
+        "price": 49.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Deriphyllin Plus",
+        "genericName": "Etofylline + Theophylline",
+        "manufacturer": "Zydus",
+        "price": 25.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Voveran Forte",
+        "genericName": "Diclofenac",
+        "manufacturer": "Novartis",
+        "price": 110.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Dolo Suspension",
+        "genericName": "Paracetamol",
+        "manufacturer": "Micro Labs",
+        "price": 38.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Pan Ointment",
+        "genericName": "Pantoprazole",
+        "manufacturer": "Alkem",
+        "price": 136.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Telma XR",
+        "genericName": "Telmisartan",
+        "manufacturer": "Glenmark",
+        "price": 166.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Zincovit SR",
+        "genericName": "Multivitamins",
+        "manufacturer": "Apex",
+        "price": 100.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Azithral 100mg",
+        "genericName": "Azithromycin",
+        "manufacturer": "Alembic",
+        "price": 127.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Crocin 10mg",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 17.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Augmentin 500mg",
+        "genericName": "Amoxicillin + Clavulanate",
+        "manufacturer": "GSK",
+        "price": 212.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Allegra 250mg",
+        "genericName": "Fexofenadine",
+        "manufacturer": "Sanofi",
+        "price": 182.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Shelcal 40mg",
+        "genericName": "Calcium + Vitamin D3",
+        "manufacturer": "Torrent",
+        "price": 124.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ecosprin 20mg",
+        "genericName": "Aspirin",
+        "manufacturer": "USV",
+        "price": 20.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Glycomet Plus",
+        "genericName": "Metformin",
+        "manufacturer": "USV",
+        "price": 50.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Thyronorm Forte",
+        "genericName": "Thyroxine",
+        "manufacturer": "Abbott",
+        "price": 157.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Montek Suspension",
+        "genericName": "Montelukast",
+        "manufacturer": "Sun Pharma",
+        "price": 139.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Omez Ointment",
+        "genericName": "Omeprazole",
+        "manufacturer": "Dr Reddy",
+        "price": 62.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Betadine XR",
+        "genericName": "Povidone Iodine",
+        "manufacturer": "Win-Medicare",
+        "price": 94.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Levocet SR",
+        "genericName": "Levocetirizine",
+        "manufacturer": "Hetero",
+        "price": 62.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Amlokind 100mg",
+        "genericName": "Amlodipine",
+        "manufacturer": "Mankind",
+        "price": 39.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Domstal 10mg",
+        "genericName": "Domperidone",
+        "manufacturer": "Torrent",
+        "price": 45.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Aciloc 500mg",
+        "genericName": "Ranitidine",
+        "manufacturer": "Cadila",
+        "price": 43.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Combiflam 250mg",
+        "genericName": "Ibuprofen + Paracetamol",
+        "manufacturer": "Sanofi",
+        "price": 44.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Evion 40mg",
+        "genericName": "Vitamin E",
+        "manufacturer": "P&G",
+        "price": 40.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Becosules 20mg",
+        "genericName": "Vitamin B Complex",
+        "manufacturer": "Pfizer",
+        "price": 40.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Volini Plus",
+        "genericName": "Diclofenac",
+        "manufacturer": "Sun Pharma",
+        "price": 99.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Liv52 Forte",
+        "genericName": "Ayurvedic Liver Tonic",
+        "manufacturer": "Himalaya",
+        "price": 145.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Calpol Suspension",
+        "genericName": "Paracetamol",
+        "manufacturer": "GSK",
+        "price": 35.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Ascoril Ointment",
+        "genericName": "Ambroxol + Guaiphenesin",
+        "manufacturer": "Glenmark",
+        "price": 129.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Cefakind XR",
+        "genericName": "Cefuroxime",
+        "manufacturer": "Mankind",
+        "price": 307.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Taxim SR",
+        "genericName": "Cefotaxime",
+        "manufacturer": "Alkem",
+        "price": 48.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Deriphyllin 100mg",
+        "genericName": "Etofylline + Theophylline",
+        "manufacturer": "Zydus",
+        "price": 38.0,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Voveran 10mg",
+        "genericName": "Diclofenac",
+        "manufacturer": "Novartis",
+        "price": 97.0,
+        "stockQuantity": 0
+    }
+]
