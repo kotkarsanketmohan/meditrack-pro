@@ -3,20 +3,24 @@ package com.meditrack.backend.service;
 import com.meditrack.backend.entity.Medicine;
 import com.meditrack.backend.entity.PharmacyUser;
 import com.meditrack.backend.repository.MedicineRepository;
-import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.stream.Collectors;
 
 @Service
-@RequiredArgsConstructor
 public class MedicineService {
 
     private final MedicineRepository medicineRepository;
-    
+
+    // Explicit constructor replaces @RequiredArgsConstructor
+    public MedicineService(MedicineRepository medicineRepository) {
+        this.medicineRepository = medicineRepository;
+    }
+
     // Cache: PharmacyUser ID -> List of Medicines
     private final Map<Long, List<Medicine>> inventoryCache = new ConcurrentHashMap<>();
 
@@ -41,7 +45,7 @@ public class MedicineService {
         }
         Medicine medicine = medicineRepository.findById(medicineId)
                 .orElseThrow(() -> new RuntimeException("Medicine not found"));
-        
+
         if (!medicine.getPharmacyUser().getId().equals(user.getId())) {
             throw new RuntimeException("Unauthorized");
         }
