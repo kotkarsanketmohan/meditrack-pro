@@ -33,13 +33,15 @@ public class MedicineController {
     @PostMapping
     public ResponseEntity<Medicine> addMedicine(@RequestBody Medicine medicine, Authentication authentication) {
         CustomUserDetails userDetails = (CustomUserDetails) authentication.getPrincipal();
-        
+
         String normalizedName = medicine.getName() != null ? medicine.getName().trim().toLowerCase() : "";
-        Optional<Medicine> existingOpt = medicineRepository.findByPharmacyUserAndNameIgnoreCase(userDetails.getPharmacyUser(), normalizedName);
-        
+        Optional<Medicine> existingOpt = medicineRepository
+                .findByPharmacyUserAndNameIgnoreCase(userDetails.getPharmacyUser(), normalizedName);
+
         if (existingOpt.isPresent()) {
             Medicine existing = existingOpt.get();
-            int newQuantity = existing.getStockQuantity() + (medicine.getStockQuantity() != null ? medicine.getStockQuantity() : 0);
+            int newQuantity = existing.getStockQuantity()
+                    + (medicine.getStockQuantity() != null ? medicine.getStockQuantity() : 0);
             existing.setStockQuantity(newQuantity);
             Medicine savedMedicine = medicineRepository.save(existing);
             medicineService.invalidateCache(userDetails.getPharmacyUser());
@@ -54,19 +56,20 @@ public class MedicineController {
     }
 
     @PutMapping("/{id}/add-stock")
-    public ResponseEntity<Medicine> addStock(@PathVariable @NonNull Long id, @RequestBody Map<String, Integer> payload, Authentication authentication) {
+    public ResponseEntity<Medicine> addStock(@PathVariable @NonNull Long id, @RequestBody Map<String, Integer> payload,
+            Authentication authentication) {
         CustomUserDetails userDetails = (CustomUserDetails) authentication.getPrincipal();
         Optional<Medicine> existingOpt = medicineRepository.findById(id);
-        
+
         if (existingOpt.isEmpty()) {
             return ResponseEntity.notFound().build();
         }
-        
+
         Medicine existing = existingOpt.get();
         if (!existing.getPharmacyUser().getId().equals(userDetails.getPharmacyUser().getId())) {
             return ResponseEntity.status(HttpStatus.FORBIDDEN).build();
         }
-        
+
         Integer quantityToAdd = payload.get("quantityToAdd");
         if (quantityToAdd != null && quantityToAdd > 0) {
             existing.setStockQuantity(existing.getStockQuantity() + quantityToAdd);
